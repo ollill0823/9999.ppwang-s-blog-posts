@@ -2,4 +2,3 @@ pandas
 nltk
 requests
 bs4
-string
