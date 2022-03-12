@@ -12,7 +12,7 @@ https://ollill0823.github.io/ppwang-s-blog-posts/
     - [Data resource](#Data-resource)
     - [Detail description](#Detail-description)
 
-# Blog title
+# Blog information
 
   ## Assignment09 
 
