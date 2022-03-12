@@ -11,7 +11,7 @@ https://ollill0823.github.io/ppwang-s-blog-posts/
   - [Assignment09](#Assignment09)
     - [Data resource](#Data-resource)
     - [Detail description](#Detail-description)
-   - [MLB data analysis](#MLB-data-analysis)
+  - [MLB data analysis](#MLB-data-analysis)
     - [Data resource](#Data-resource)
     - [Detail description](#Detail-description)
 
