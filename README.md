@@ -7,10 +7,10 @@
 
 https://ollill0823.github.io/ppwang-s-blog-posts/
 
-[Blog title](#Blog-title)
-  [Assignment09](#Assignment09)
-    [Data resource](#Data-resource)
-    [Detail description](#Detail-description)
+- [Blog title](#Blog-title)
+  - [Assignment09](#Assignment09)
+    - [Data resource](#Data-resource)
+    - [Detail description](#Detail-description)
 
 # Blog title
 
@@ -20,9 +20,9 @@ https://ollill0823.github.io/ppwang-s-blog-posts/
 
   ### Data resource
 
-    Shakespeare play [`A Midsummer Night's Dream`](http://shakespeare.mit.edu/midsummer/full.html) 
+  Shakespeare play [`A Midsummer Night's Dream`](http://shakespeare.mit.edu/midsummer/full.html) 
 
   ### Detail description
-    1. **Tokenize** the words and **remove** stopwords
-    2. Find the **top 20** most frequent words in the play
-    3. **Comment** on whether these words give an accurate sense of the play
+  1. **Tokenize** the words and **remove** stopword
+  2. Find the **top 20** most frequent words in the play
+  3. **Comment** on whether these words give an accurate sense of the play
