@@ -7,15 +7,18 @@
 
 https://ollill0823.github.io/ppwang-s-blog-posts/
 
-[My blog posts list](#My-blog-posts-list)
+[Blog title](#Blog-title)
+  [Assignment09](#Assignment09)
 
+# Blog title
 
-# My blog posts list
+## Assignment09 
 
-# Assignment09- Practice token and word analysis from Jupyter
+Practice token and word analysis from Jupyter
 
-  ##  Shakespeare play [`A Midsummer Night's Dream`](http://shakespeare.mit.edu/midsummer/full.html) 
+### Data source
 
+Shakespeare play [`A Midsummer Night's Dream`](http://shakespeare.mit.edu/midsummer/full.html) 
 
 ### This file will include:
 1. **Tokenize** the words and **remove** stopwords
