@@ -16,7 +16,7 @@ https://ollill0823.github.io/ppwang-s-blog-posts/
 
   ## Assignment09 
 
-   Practice token and word analysis from Jupyter
+    Practice token and word analysis from Jupyter
 
   ### Data resource
 
