@@ -2,3 +2,8 @@ pandas
 nltk
 requests
 bs4
+matplotlib
+urllib
+numpy
+seaborn
+sklearn
